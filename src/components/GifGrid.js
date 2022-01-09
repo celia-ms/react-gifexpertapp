@@ -9,7 +9,7 @@ export const GifGrid = ({ category }) => {
         <>
         <h3> { category } </h3> 
 
-        {loading ? 'Cargando...' : 'Data cargada'}
+        {loading ? <p>Loading...</p> : null}
 
         <div  className='card-grid'>
             { 
