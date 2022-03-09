@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Gif Expert App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Demo of [Gif Expert App](https://celia-ms.github.io/react-gifexpertapp/).
 
 ## Available Scripts
 
